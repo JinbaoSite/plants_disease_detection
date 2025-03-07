@@ -1,5 +1,9 @@
 # AI challenger比赛—农作物病害检测
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JinbaoSite/plants_disease_detection&type=Date)](https://star-history.com/#JinbaoSite/plants_disease_detection&Date)
+
 ## 1 赛题简介
 
 对近5万张按“物种-病害-程度”分成61类的植物叶片照片进行分类
